@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+\providecommand{\biburl}[1]{\url{#1}}
+\providecommand{\urlprefix}{Dostupn{\' e} z: }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\biburl{#2}}
+
+\bibitem{kate}
+Lai, K.: \emph{The Knapsack Problem and Fully Polynomial Time Approximation
+  Schemes (FPTAS)}. [cit. 2015-11-06].
+\urlprefix\biburl{http://math.mit.edu/~goemans/18434S06/knapsack-katherine.pdf}
+
+\end{thebibliography}

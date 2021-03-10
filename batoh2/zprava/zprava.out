@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Specifikace \372lohy}{}% 1
+\BOOKMARK [1][-]{section.2}{Re\235en\355}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Metoda vetv\355 a hranic}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Dynamick\375 algoritmus}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Dekompozice podle ceny}{subsection.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{FPTAS algoritmus}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{V\375sledky}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Podm\355nky meren\355}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Casy exaktn\355ch algoritmu}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Casy FPTAS algoritmu}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Chyba FPTAS algoritmu}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Z\341ver}{}% 12

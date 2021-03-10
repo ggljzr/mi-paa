@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+\providecommand{\biburl}[1]{\url{#1}}
+\providecommand{\urlprefix}{Dostupn{\' e} z: }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\biburl{#2}}
+
+\bibitem{aibook}
+Russell, S.~J.; Norvig, P.: \emph{Artificial Inteligence - A Modern Approach}.
+  Alan Apt, 1995, ISBN 0-13-103805-2.
+
+\bibitem{selman}
+Selman, B.: \emph{Stochastic Search and Phase Transitions: AI Meets Physics}.
+  AT\&T Bell Laboratories, [cit. 2016-01-21].
+\urlprefix\biburl{http://www.cs.cornell.edu/selman/compute/95ijcai/ijcai95aiphys.pdf}
+
+\bibitem{satlib}
+Hoos, H.~H.; Stützle, T.: \emph{SATLIB: An Online Resource for Research on
+  SAT}. University of British Columbia, [cit. 2016-01-23].
+\urlprefix\biburl{http://www.cs.ubc.ca/~hoos/Publ/sat2000-satlib.pdf}
+
+\end{thebibliography}

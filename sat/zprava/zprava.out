@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Specifikace \372lohy}{}% 1
+\BOOKMARK [1][-]{section.2}{Simulovan\351 ochlazov\341n\355}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Kostra algoritmu}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Meren\355}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Podm\355nky meren\355}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Volba instanc\355}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{Zkoum\341n\355 relativn\355 chyby heuristiky}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Poc\341tecn\355 nastaven\355 parametru heuristiky a instanc\355}{subsection.3.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Meren\355 relativn\355 chyby}{subsection.3.3}% 9
+\BOOKMARK [2][-]{subsection.3.4}{Zkoum\341n\355 v\375voje kvality re\235en\355 na vet\235\355ch instanc\355ch}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Poc\341tecn\355 nastaven\355 parametru heuristiky a instanc\355}{subsection.3.4}% 11
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Meren\355 v\375voje kvality re\235en\355}{subsection.3.4}% 12
+\BOOKMARK [3][-]{subsubsection.3.4.3}{\332spe\235nost nalezen\355 re\235en\355}{subsection.3.4}% 13
+\BOOKMARK [1][-]{section.4}{Z\341ver}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Vygenerovan\351 instance}{section.4}% 15

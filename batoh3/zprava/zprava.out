@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Specifikace \372lohy}{}% 1
+\BOOKMARK [1][-]{section.2}{Meren\351 algoritmy}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Podm\355nky meren\355}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Vliv vstupn\355ch dat na dobu behu}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Vliv maxim\341ln\355 v\341hy}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Vliv maxim\341ln\355 ceny}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{Vliv pomeru kapacity batohu a sum\341rn\355 v\341hy}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.4}{Vliv granularity}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Vliv vstupn\355ch dat na chybu heuristiky}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Vliv v\341hy a ceny}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Vliv pomeru kapacity a sum\341rn\355 v\341hy batohu}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Vliv granularity}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Z\341ver}{}% 13
